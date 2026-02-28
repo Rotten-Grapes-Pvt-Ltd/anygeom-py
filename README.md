@@ -422,5 +422,5 @@ Krishna Lodha (krishna@rottengrapes.tech)
 ## Links
 
 - PyPI: https://pypi.org/project/anygeom-py/
-- Repository: https://github.com/yourusername/anygeom-py
-- Issues: https://github.com/yourusername/anygeom-py/issues
+- Repository: https://github.com/Rotten-Grapes-Pvt-Ltd/anygeom-py
+- Issues: https://github.com/Rotten-Grapes-Pvt-Ltd/anygeom-py/issues
