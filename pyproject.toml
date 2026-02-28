@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "anygeom-py"
+version = "0.1.0"
+description = "Python Package to Generate Any Random Geometry"
+authors = ["krishna lodha <krishna@rottengrapes.tech>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "anygeom"}]
+
+[tool.poetry.dependencies]
+python = ">=3.11"
+shapely = "^2.1.2"
+pyproj = "^3.7.2"
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
